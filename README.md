@@ -32,9 +32,3 @@ This project is a social media application built using Node.js, Express, and Red
 - Node.js and npm (Node Package Manager)
 - Redis server
 
-## Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/social-media-app.git
-   cd social-media-app
